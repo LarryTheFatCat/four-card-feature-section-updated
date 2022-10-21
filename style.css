@@ -17,9 +17,10 @@ html {
 
 .description {
     font-weight: 200;
+    font-size: 15px;
     position: relative;
     top: -4em;
-    width: 30em;
+    width: 33em;
     display: grid;
     margin: 0 auto;
 }
