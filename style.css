@@ -125,3 +125,27 @@ html {
     text-align: left;
     padding-left: 0.7cm;
 }
+
+.karma {
+    position: relative;
+    top: -13.5cm;
+    left: 15cm;
+    border-top-style: solid;
+    border-top-color: hsl(136, 65%, 51%);
+    border-top-width: 7px;
+}
+
+.karma-title {
+    padding-left: 0.7cm;
+    text-align: left;
+    font-size: 25px;
+}
+
+.karma-description {
+    position: relative;
+    top: -2.1cm;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 0.7cm;
+    width: 8cm;
+}
