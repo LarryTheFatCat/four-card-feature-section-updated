@@ -1,0 +1,302 @@
+@media screen and (max-width: 767px) and (max-width: 1024px) {
+    html {
+        font-family: Poppins, sans-serif;
+        text-align: center;
+        background-color: hsl(0, 0%, 98%);
+    }  
+    .title-content {
+        font-weight: 200;
+        position: relative;
+        left: 2cm;
+        color: hsl(234, 12%, 34%);
+    }
+    
+    .t-words {
+        font-weight: 600;
+    }
+      
+    .card {
+        display: grid;
+        width: 10cm;
+        height: 7cm;
+        background-color: white;
+        backdrop-filter: blur(10px);
+        -webkit-box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22); 
+        box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22);
+        border-radius: 10px;
+        border-top-color: #45d3d3;
+        border-top-style: solid;
+        border-top-width: 7px;
+        color: hsl(234, 12%, 34%);
+        font-weight: 200;
+        transition: 0.3s ease-in-out;
+    }
+    
+    .card:hover {
+        border-top-style: solid;
+        border-top-width: 7px;
+        transform: scale(1.02);
+        transition: 0.3s;
+    }
+    
+    .supervisor {
+        position: relative;
+        top: -1cm;
+        left: 2cm;
+    }
+    
+    .teambuilder {
+        position: relative;
+        left: 13cm;
+        top: -8.2cm;
+        border-top-color: hsl(0, 78%, 62%);
+        border-top-style: solid;
+        border-top-width: 7px;
+    }
+    .calculator {
+        position: relative;
+        top: -6.3cm;
+        left: 13cm;
+        border-top-style: solid;
+        border-top-color: hsl(212, 86%, 64%);
+        border-top-width: 7px;
+    }
+    
+    .karma {
+        position: relative;
+        top: -13.5cm;
+        left: 2cm;
+        border-top-style: solid;
+        border-top-color: hsl(136, 65%, 51%);
+        border-top-width: 7px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    html {
+        font-family: Poppins, sans-serif;
+        text-align: center;
+        background-color: hsl(0, 0%, 98%);
+    }
+    .title-content {
+        font-weight: 200;
+        margin: 5rem;
+        color: hsl(234, 12%, 34%);
+        display: grid;
+        place-items: center;
+    }
+    
+    .t-words {
+        font-weight: 600;
+    }
+    .card {
+        display: grid;
+        width: 10cm;
+        height: 7cm;
+        background-color: white;
+        backdrop-filter: blur(10px);
+        -webkit-box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22); 
+        box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22);
+        border-radius: 10px;
+        border-top-color: #45d3d3;
+        border-top-style: solid;
+        border-top-width: 7px;
+        color: hsl(234, 12%, 34%);
+        font-weight: 200;
+        transition: 0.3s ease-in-out;
+    }
+    
+    .card:hover {
+        border-top-style: solid;
+        border-top-width: 7px;
+        transform: scale(1.02);
+        transition: 0.3s;
+    }
+    
+    .supervisor {
+        position: relative;
+        top: -1cm;
+        left: 2cm;
+    }
+    
+    .teambuilder {
+        position: relative;
+        left: 15cm;
+        top: -8.2cm;
+        border-top-color: hsl(0, 78%, 62%);
+        border-top-style: solid;
+        border-top-width: 7px;
+    }
+    
+    .calculator {
+        position: relative;
+        top: -6.3cm;
+        left: 15cm;
+        border-top-style: solid;
+        border-top-color: hsl(212, 86%, 64%);
+        border-top-width: 7px;
+    }
+    
+    .karma {
+        position: relative;
+        top: -13.5cm;
+        left: 2cm;
+        border-top-style: solid;
+        border-top-color: hsl(136, 65%, 51%);
+        border-top-width: 7px;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    html {
+        font-family: Poppins, sans-serif;
+        text-align: center;
+        background-color: hsl(0, 0%, 98%);
+    }
+    .title-content {
+        font-weight: 200;
+        margin: 5rem;
+        color: hsl(234, 12%, 34%);
+        display: grid;
+        place-items: center;
+    }
+    
+    .t-words {
+        font-weight: 600;
+    }
+    .card {
+        display: grid;
+        width: 10cm;
+        height: 7cm;
+        background-color: white;
+        backdrop-filter: blur(10px);
+        -webkit-box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22); 
+        box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22);
+        border-radius: 10px;
+        border-top-color: #45d3d3;
+        border-top-style: solid;
+        border-top-width: 7px;
+        color: hsl(234, 12%, 34%);
+        font-weight: 200;
+        transition: 0.3s ease-in-out;
+    }
+    
+    .card:hover {
+        border-top-style: solid;
+        border-top-width: 7px;
+        transform: scale(1.02);
+        transition: 0.3s;
+    }
+    
+    .supervisor {
+        position: relative;
+        top: -1cm;
+        left: 2cm;
+    }
+    
+    .teambuilder {
+        position: relative;
+        left: 15cm;
+        top: -8.2cm;
+        border-top-color: hsl(0, 78%, 62%);
+        border-top-style: solid;
+        border-top-width: 7px;
+    }
+    
+    .calculator {
+        position: relative;
+        top: -6.3cm;
+        left: 15cm;
+        border-top-style: solid;
+        border-top-color: hsl(212, 86%, 64%);
+        border-top-width: 7px;
+    }
+    
+    .karma {
+        position: relative;
+        top: -13.5cm;
+        left: 2cm;
+        border-top-style: solid;
+        border-top-color: hsl(136, 65%, 51%);
+        border-top-width: 7px;
+    }
+    
+}
+
+@media screen and (max-width: 1342px) {
+    html {
+        font-family: Poppins, sans-serif;
+        background-color: hsl(0, 0%, 98%);
+    }
+    .title-content {
+        font-weight: 200;
+        color: hsl(234, 12%, 34%);
+        display: grid;
+        place-items: center;
+    }
+    
+    .t-words {
+        font-weight: 600;
+    }
+    .card {
+        display: grid;
+        width: 10cm;
+        height: 7cm;
+        background-color: white;
+        backdrop-filter: blur(10px);
+        -webkit-box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22); 
+        box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22);
+        border-radius: 10px;
+        border-top-color: #45d3d3;
+        border-top-style: solid;
+        border-top-width: 7px;
+        color: hsl(234, 12%, 34%);
+        font-weight: 200;
+        transition: 0.3s ease-in-out;
+    }
+    
+    .card:hover {
+        border-top-style: solid;
+        border-top-width: 7px;
+        transform: scale(1.02);
+        transition: 0.3s;
+    }
+    
+    .supervisor {
+        position: relative;
+        top: -1cm;
+        left: 2cm;
+    }
+    
+    .teambuilder {
+        position: relative;
+        left: 22cm;
+        top: -8.2cm;
+        border-top-color: hsl(0, 78%, 62%);
+        border-top-style: solid;
+        border-top-width: 7px;
+    }
+    
+    .calculator {
+        position: relative;
+        top: -6.3cm;
+        left: 22cm;
+        border-top-style: solid;
+        border-top-color: hsl(212, 86%, 64%);
+        border-top-width: 7px;
+    }
+    
+    .karma {
+        position: relative;
+        top: -13.5cm;
+        left: 2cm;
+        border-top-style: solid;
+        border-top-color: hsl(136, 65%, 51%);
+        border-top-width: 7px;
+    }
+    
+}
+
+@media screen and (max-width: 376px) {
+
+}

@@ -131,7 +131,7 @@ html {
     top: -13.5cm;
     left: 15cm;
     border-top-style: solid;
-    border-top-color: hsl(136, 65%, 51%);
+    border-top-color: hsl(34, 97%, 64%);
     border-top-width: 7px;
 }
 
@@ -143,7 +143,7 @@ html {
 
 .karma-description {
     position: relative;
-    top: -2.1cm;
+    top: -1cm;
     font-size: 14px;
     text-align: left;
     padding-left: 0.7cm;
