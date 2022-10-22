@@ -28,7 +28,7 @@ html {
     margin: 0 auto;
 }
 
-.supervisor-card {
+.card {
     display: grid;
     width: 10cm;
     height: 7cm;
@@ -40,14 +40,12 @@ html {
     border-top-color: #45d3d3;
     border-top-style: solid;
     border-top-width: 7px;
-    position: relative;
-    left: 3.6cm;
     color: hsl(234, 12%, 34%);
     font-weight: 200;
     transition: 0.3s ease-in-out;
 }
 
-.supervisor-card:hover {
+.card:hover {
     -webkit-box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22); 
     box-shadow: 4px 5px 10px 7px rgba(0,0,0,0.22);
     border-top-color: #45d3d3;
@@ -55,6 +53,11 @@ html {
     border-top-width: 7px;
     transform: scale(1.02);
     transition: 0.3s;
+}
+
+.supervisor {
+    position: relative;
+    left: 3.6cm;
 }
 
 .supervisor-description {
